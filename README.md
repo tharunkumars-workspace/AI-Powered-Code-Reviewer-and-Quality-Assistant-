@@ -10,7 +10,7 @@
 
 Modern software development demands not just working code, but **readable, documented, and maintainable** code. The AI-Powered Code Reviewer & Quality Assistant bridges the gap between writing code and writing *good* code — by automating code metrics analysis, validating and generating docstrings, and presenting everything through an intuitive dashboard interface.
 
-This project was developed as part of the **Infosys Springboard AI Internship Program**, structured across 4 progressive milestones to incrementally build a production-ready AI tool.
+This project was developed as part of the **Infosys Springboard Virtual Internship Program**, structured across 4 progressive milestones to incrementally build a production-ready AI tool.
 
 ---
 
