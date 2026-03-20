@@ -147,7 +147,7 @@ The app will launch in your browser at `http://localhost:8501`
 
 ## 👨‍💻 Author
 
-**Tharun Kumar**
+**Tharun Kumar S**
 - 🎓 Infosys Springboard Virtual Internship Program
 - 💼 Project: AI-Powered Code Reviewer & Quality Assistant
 - 🔗 GitHub: [@tharunkumars-workspace](https://github.com/tharunkumars-workspace)
