@@ -5,8 +5,5 @@ Scripts/
 share/
 pyvenv.cfg
 venv/
-<<<<<<< HEAD
 env/
-=======
 .env
->>>>>>> fddd52178b9bbd98414b156d51c3e61032fa571f
