@@ -1,0 +1,32 @@
+{
+    "total_functions": 3,
+    "documented": 0,
+    "undocumented": 3,
+    "coverage_percent": 0.0,
+    "functions": [
+        {
+            "name": "add",
+            "type": "Function",
+            "start_line": 1,
+            "end_line": 2,
+            "has_docstring": false,
+            "complexity": 1
+        },
+        {
+            "name": "subtract",
+            "type": "Function",
+            "start_line": 5,
+            "end_line": 6,
+            "has_docstring": false,
+            "complexity": 1
+        },
+        {
+            "name": "multiply",
+            "type": "Function",
+            "start_line": 9,
+            "end_line": 10,
+            "has_docstring": false,
+            "complexity": 1
+        }
+    ]
+}
