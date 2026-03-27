@@ -88,13 +88,16 @@ The final milestone brought everything together into a polished, production-read
 ```
 ai_powered/
 │
+|Documentation
+|
+|examples
+|
 ├── milestones/
 │   ├── milestone_1/          # Code metrics analysis module
 │   ├── milestone_2/          # Docstring validation module
 │   ├── milestone_3/          # Docstring generation module
 │   └── milestone_4/          # Dashboard interface & main app
 │       ├── main_app.py       # Main Streamlit application
-│       └── .env              # Environment variables (API keys)
 │
 ├── python_basics.py          # Utility and helper functions
 ├── requirements.txt          # Project dependencies
