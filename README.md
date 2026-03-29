@@ -113,7 +113,7 @@ ai_powered/
 | Type | Link |
 |---|---|
 | 📊 **Presentation (PPT)** | [Download PPT](Documentation/AI_Powered_Code_Reviewer%20%5BTharun%20Kumar%20S%5D.pptx) |
-| 🎥 **Demo Video** | [Download Video](Documentation/demo_video.mp4) |
+| 🎥 **Demo Video** | [Download Video](Documentation/Demo Video.mp4) |
 
 ---
 
