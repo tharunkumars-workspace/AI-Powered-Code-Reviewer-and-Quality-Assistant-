@@ -70,13 +70,15 @@ The final milestone brought everything together into a polished, production-read
 
 ## 🛠️ Tech Stack & Tools
 
-| Category | Technology |
+| Category | Technology / Libraries |
 |---|---|
-| **Language** | Python 3.x |
+| **Language** | Python 3.8+ |
 | **Web Framework** | Streamlit |
+| **AI / LLM Models** | LLaMA 3.3 70B, LLaMA 3.1 8B, GPT-OSS 120B, GPT-OSS 20B |
+| **API Provider** | Groq API, OpenAI-compatible API |
 | **Code Analysis** | Radon, Pylint, AST |
-| **AI / LLM** | OpenAI API / Google Gemini |
 | **Data Visualization** | Plotly, Matplotlib |
+| **Utilities** | python-dotenv, os, re, json |
 | **Version Control** | Git & GitHub |
 | **Environment** | Python Virtual Environment (venv) |
 | **IDE** | Visual Studio Code |
@@ -88,18 +90,30 @@ The final milestone brought everything together into a polished, production-read
 ```
 ai_powered/
 │
+|Documentation
+|
+|examples
+|
 ├── milestones/
 │   ├── milestone_1/          # Code metrics analysis module
 │   ├── milestone_2/          # Docstring validation module
 │   ├── milestone_3/          # Docstring generation module
 │   └── milestone_4/          # Dashboard interface & main app
 │       ├── main_app.py       # Main Streamlit application
-│       └── .env              # Environment variables (API keys)
 │
 ├── python_basics.py          # Utility and helper functions
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project documentation
 ```
+
+---
+
+## 📂 Documentation & Demo
+
+| Type | Link |
+|---|---|
+| 📊 **Presentation (PPT)** | [Download PPT](Documentation/AI_Powered_Code_Reviewer%20%5BTharun%20Kumar%20S%5D.pptx) |
+| 🎥 **Demo Video** | [Download Video](Documentation/demo_video.mp4) |
 
 ---
 
@@ -143,7 +157,7 @@ streamlit run main_app.py
 
 The app will launch in your browser at `http://localhost:8501`
 
----
+------------------
 
 ## 👨‍💻 Author
 
@@ -153,5 +167,3 @@ The app will launch in your browser at `http://localhost:8501`
 - 🔗 GitHub: [@tharunkumars-workspace](https://github.com/tharunkumars-workspace)
 
 ------------------
-
-
